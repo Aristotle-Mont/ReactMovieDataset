@@ -1,8 +1,6 @@
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-
 <img src='http://g.recordit.co/OokBFejSpj.gif' title='Video Walkthrough of twitter 2nd part' width='' alt='Video Walkthrough' />
 http://g.recordit.co/OokBFejSpj.gif
 
