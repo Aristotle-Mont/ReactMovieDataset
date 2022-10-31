@@ -2,7 +2,9 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/BOhVtCiUUQ.gif' title='Video Walkthrough of Movie datasets using react' width='' alt='Video Walkthrough' />
+
+<img src='http://g.recordit.co/qpdiTmvIjR.gif' title='Video Walkthrough of twitter 2nd part' width='' alt='Video Walkthrough' />
+
 In the project directory, you can run:
 
 ### `npm start`
