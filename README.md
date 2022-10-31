@@ -1,7 +1,8 @@
-# Getting Started with Create React App
+## Video Walkthrough
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here's a walkthrough of implemented user stories:
 
+<img src='http://g.recordit.co/BOhVtCiUUQ.gif' title='Video Walkthrough of React movie dataset' width='' alt='Video Walkthrough' />
 ## Available Scripts
 
 In the project directory, you can run:
