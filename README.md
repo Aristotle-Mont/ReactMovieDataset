@@ -2,8 +2,7 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/BOhVtCiUUQ.gif' title='Video Walkthrough of React movie dataset' width='' alt='Video Walkthrough' />
-## Available Scripts
+<img src='http://g.recordit.co/BOhVtCiUUQ.gif' title='Video Walkthrough of Movie datasets using react' width='' alt='Video Walkthrough' />
 
 In the project directory, you can run:
 
